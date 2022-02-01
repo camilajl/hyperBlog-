@@ -6,9 +6,17 @@ h1{
  font-family: "Georgia" ;
  font-size: larger;
 
-
+}
+div {
+    text-align: center;
+    color: orange;
+    font-family: "courier";
+    font-size: xx-large;
+    font-style: italic;
+    font-variant: initial;
 
 }
+    
 p{
     color: palevioletred;
     text-align: center;
