@@ -1,6 +1,9 @@
 body
 
-{
+p{
+    color: cornsilk;
     text-align: center;
     font-family: "Arial" ;
+    background-color: blueviolet;
+
 }
